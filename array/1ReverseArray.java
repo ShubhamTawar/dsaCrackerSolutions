@@ -40,7 +40,7 @@ class Solution {
 
 		readArray(arr , size);
 
-		System.out.println("Before reversing...");
+		System.out.println("After reversing...");
 		printArray(arr);
 		reverse(arr , size);
 
